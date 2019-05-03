@@ -4,6 +4,6 @@
   "description": "More than 80 000 dialogs",
   "apidoc": {
     "title": "South park dialogs API",
-    "url" : "https://api.github.com/v1"
+    "url" : "https://south-park-dialog-api.herokuapp.com/"
   }
 }

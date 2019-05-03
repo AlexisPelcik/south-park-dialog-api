@@ -11,4 +11,4 @@ server
     .use(require('./src/routes/episodesRoute').routes())
     .use(require('./src/routes/dialogsRoute').routes())
     .use(require('./src/routes/randomRoutes').routes())
-    .listen(3001);
+    .listen(process.env.PORT || 3001);

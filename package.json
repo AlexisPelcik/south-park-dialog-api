@@ -1,0 +1,26 @@
+{
+  "name": "south-park-dialog-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server.js",
+    "start_test": "nodemon ./server.js localhost 3001",
+    "apidoc": "apidoc -i ./src/routes/ -o ./src/public/. -t ./src/templateApi"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "sequelize": "^5.8.1",
+    "sqlite3": "^4.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11",
+    "sequelize-cli": "^5.4.0"
+  }
+}

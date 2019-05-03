@@ -1,0 +1,9 @@
+{
+  "name": "South park dialogs API",
+  "version": "1.0.0",
+  "description": "More than 80 000 dialogs",
+  "apidoc": {
+    "title": "South park dialogs API",
+    "url" : "https://api.github.com/v1"
+  }
+}

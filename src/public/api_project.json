@@ -1,0 +1,1 @@
+{  "name": "South park dialogs API",  "version": "1.0.0",  "description": "More than 80 000 dialogs",  "apidoc": "0.3.0",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "generator": {    "name": "apidoc",    "time": "2019-05-03T10:13:18.027Z",    "url": "http://apidocjs.com",    "version": "0.17.7"  }}
